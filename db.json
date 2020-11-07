@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apples"
+	  "barcode": "0000001"
+    },
+    {
+      "id": 2,
+      "title": "Banana"
+	  "barcode": "0000002"
+    },
+    {
+      "id": 3,
+      "title": "Pasta"
+	  "barcode": "0000003"
+    },
+	{
+      "id": 4,
+      "title": "Triple Chocolate Cookies"
+	  "barcode": "0165831"
+    },
+	{
+      "id": 5,
+      "title": "Double Chocolate Cookies"
+	  "barcode": "01656746"
+    }
+  ],
+  "users": [
+      {
+        "id": 2,
+        "name": "John Doe",
+        "email": "john-doe@gmail.com",
+        "password": "12345-secret"
+    },
+    {
+        "id": 1,
+        "name": "Johnathan Blow",
+        "email": "jb@gmail.com",
+        "password": "123123!"
+    }
+  ]
+}
